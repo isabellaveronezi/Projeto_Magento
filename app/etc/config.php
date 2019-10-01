@@ -249,7 +249,7 @@ return [
                 'website_id' => '1',
                 'name' => 'Main Website Store',
                 'root_category_id' => '2',
-                'default_store_id' => '1',
+                'default_store_id' => '7',
                 'code' => 'main_website_store',
             ],
         ],
@@ -263,8 +263,8 @@ return [
                 'sort_order' => '0',
                 'is_active' => '1',
             ],
-            'WebGames' => [
-                'store_id' => '1',
+            'webgames' => [
+                'store_id' => '7',
                 'code' => 'webgames',
                 'website_id' => '1',
                 'group_id' => '1',
@@ -272,14 +272,23 @@ return [
                 'sort_order' => '0',
                 'is_active' => '1',
             ],
-            'WebSports' => [
-                'store_id' => '2',
+            'websports' => [
+                'store_id' => '8',
                 'code' => 'websports',
                 'website_id' => '1',
                 'group_id' => '1',
                 'name' => 'WebSports',
-                'sort_order' => '1',
+                'sort_order' => '0',
                 'is_active' => '1',
+            ],
+            'teste' => [
+                'store_id' => '10',
+                'code' => 'teste',
+                'website_id' => '1',
+                'group_id' => '1',
+                'name' => 'teste',
+                'sort_order' => '0',
+                'is_active' => '0',
             ],
         ],
     ],
@@ -423,6 +432,7 @@ Disallow: /*SID=
                     'profiler' => '0',
                     'template_hints_storefront_show_with_parameter' => '0',
                     'template_hints_parameter_value' => 'magento',
+                    'template_hints_storefront' => '0',
                 ],
                 'js' => [
                     'merge_files' => '0',
@@ -2613,6 +2623,94 @@ Disallow: /*SID=
                     ],
                 ],
             ],
+            'webgames' => [
+                'design' => [
+                    'theme' => [
+                        'theme_id' => 'frontend/WebJump/theme',
+                    ],
+                    'pagination' => [
+                        'pagination_frame_skip' => NULL,
+                        'anchor_text_for_previous' => NULL,
+                        'anchor_text_for_next' => NULL,
+                    ],
+                    'head' => [
+                        'title_prefix' => NULL,
+                        'title_suffix' => NULL,
+                        'default_description' => NULL,
+                        'default_keywords' => NULL,
+                        'includes' => NULL,
+                    ],
+                    'header' => [
+                        'logo_width' => NULL,
+                        'logo_height' => NULL,
+                        'logo_alt' => NULL,
+                    ],
+                    'footer' => [
+                        'absolute_footer' => NULL,
+                    ],
+                    'search_engine_robots' => [
+                        'custom_instructions' => NULL,
+                    ],
+                    'watermark' => [
+                        'image_size' => NULL,
+                        'image_imageOpacity' => NULL,
+                        'small_image_size' => NULL,
+                        'small_image_imageOpacity' => NULL,
+                        'thumbnail_size' => NULL,
+                        'thumbnail_imageOpacity' => NULL,
+                        'swatch_image_size' => NULL,
+                        'swatch_image_imageOpacity' => NULL,
+                    ],
+                    'email' => [
+                        'logo_alt' => NULL,
+                        'logo_width' => NULL,
+                        'logo_height' => NULL,
+                    ],
+                ],
+            ],
+            'websports' => [
+                'design' => [
+                    'pagination' => [
+                        'pagination_frame_skip' => NULL,
+                        'anchor_text_for_previous' => NULL,
+                        'anchor_text_for_next' => NULL,
+                    ],
+                    'head' => [
+                        'title_prefix' => NULL,
+                        'title_suffix' => NULL,
+                        'default_description' => NULL,
+                        'default_keywords' => NULL,
+                        'includes' => NULL,
+                    ],
+                    'header' => [
+                        'logo_src' => 'stores/8/WebSports.jpg',
+                        'logo_width' => NULL,
+                        'logo_height' => NULL,
+                        'logo_alt' => NULL,
+                    ],
+                    'footer' => [
+                        'absolute_footer' => NULL,
+                    ],
+                    'search_engine_robots' => [
+                        'custom_instructions' => NULL,
+                    ],
+                    'watermark' => [
+                        'image_size' => NULL,
+                        'image_imageOpacity' => NULL,
+                        'small_image_size' => NULL,
+                        'small_image_imageOpacity' => NULL,
+                        'thumbnail_size' => NULL,
+                        'thumbnail_imageOpacity' => NULL,
+                        'swatch_image_size' => NULL,
+                        'swatch_image_imageOpacity' => NULL,
+                    ],
+                    'email' => [
+                        'logo_alt' => NULL,
+                        'logo_width' => NULL,
+                        'logo_height' => NULL,
+                    ],
+                ],
+            ],
         ],
         'websites' => [
             'admin' => [
@@ -2679,6 +2777,15 @@ Disallow: /*SID=
             'area' => 'frontend',
             'type' => '0',
             'code' => 'Magento/luma',
+        ],
+        'frontend/WebJump/theme' => [
+            'parent_id' => 'Magento/luma',
+            'theme_path' => 'WebJump/theme',
+            'theme_title' => 'WebJump theme',
+            'is_featured' => '0',
+            'area' => 'frontend',
+            'type' => '0',
+            'code' => 'WebJump/theme',
         ],
     ],
     'i18n' => [
