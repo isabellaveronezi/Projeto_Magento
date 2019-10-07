@@ -41,6 +41,27 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    theme: {
+        area: 'frontend',
+        name: 'WebJump/theme',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
+
+    theme_sport: {
+        area: 'frontend',
+        name: 'WebJump/theme_sport',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
