@@ -1,0 +1,1 @@
+O módulo Page permite a aplicação de uma nova página customizada. 
