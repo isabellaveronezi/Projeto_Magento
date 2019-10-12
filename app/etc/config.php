@@ -214,6 +214,7 @@ return [
         'MSP_TwoFactorAuth' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
+        'WebJump_Attribute' => 1,
         'WebJump_Category' => 1,
         'WebJump_Page' => 1,
         'WebJump_Project' => 1,

@@ -53,24 +53,9 @@ class UpgradeData implements UpgradeDataInterface
                     ->setIdentifier('informacao')
                     ->setIsActive(true)
                     ->setPageLayout('1column')
-                    ->setStores([9])
-                    ->setContent(/** @lang text */
-                        '
-                                   <div class="title">
-                                   <h1 class="content-head__title"><strong>Fifa The Best: pela sexta vez, Messi é eleito
-                                    melhor jogador do mundo</strong></h1></div>
-                                    <div class="medium-centered subtitle">
-                                    <h2 class="content-head__subtitle">
-                                    <strong>Argentino supera Van Dijk e Cristiano Ronaldo e volta a conquistar premiação
-                                     após quatro anos</strong></h2>
-                                    <p>Pela sexta vez, o mundo está aos pés de Lionel Messi. 
-                                    O craque do Barcelona superou Virgil van Dijk, do Liverpool, e Cristiano Ronaldo, 
-                                    da Juventus, e conquistou o prêmio “Fifa The Best” de melhor jogador do mundo da 
-                                    temporada 2018/19. O camisa 10 argentino agora é o maior vencedor da premiação no 
-                                    futebol masculino, com seis troféus, uma a mais que CR7. Ele iguala Marta, 
-                                    que também tem seis conquistas no feminino.</p></div>
-                                    <p>{{block class="Magento\Framework\View\Element\Template" 
-                                    template="WebJump_Page::sport.phtml"}}</p>')
+                    ->setStores([3])
+                    ->setContent('{{block class="Magento\Framework\View\Element\Template" 
+                                   template="WebJump_Page::sport.phtml"}}')
                     ->save();
 
             } catch (\Exception $exception) {
