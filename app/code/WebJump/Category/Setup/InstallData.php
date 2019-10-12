@@ -72,7 +72,7 @@ class InstallData implements InstallDataInterface
             'active' => true,
             'is_anchor' => true,
             'include_in_menu' => true,
-            'display_mode' => 'PAGE',
+            'display_mode' => 'PRODUCTS_AND_PAGE',
             'is_active' => true,
             'parent_id' => $parentCategory->getId()
         ];
@@ -83,18 +83,18 @@ class InstallData implements InstallDataInterface
             'active' => true,
             'is_anchor' => true,
             'include_in_menu' => true,
-            'display_mode' => 'PAGE',
+            'display_mode' => 'PRODUCTS_AND_PAGE',
             'is_active' => true,
             'parent_id' => $parentCategory->getId()
         ];
 
         $categories[] = [
-            'name' => 'NITENDO',
+            'name' => 'NINTENDO',
             'url_key' => 'nitendo',
             'active' => true,
             'is_anchor' => true,
             'include_in_menu' => true,
-            'display_mode' => 'PAGE',
+            'display_mode' => 'PRODUCTS_AND_PAGE',
             'is_active' => true,
             'parent_id' => $parentCategory->getId()
         ];
@@ -105,7 +105,7 @@ class InstallData implements InstallDataInterface
             'active' => true,
             'is_anchor' => true,
             'include_in_menu' => true,
-            'display_mode' => 'PAGE',
+            'display_mode' => 'PRODUCTS_AND_PAGE',
             'is_active' => true,
             'parent_id' => $parentCategory->getId()
         ];
@@ -116,7 +116,7 @@ class InstallData implements InstallDataInterface
             'active' => true,
             'is_anchor' => true,
             'include_in_menu' => true,
-            'display_mode' => 'PAGE',
+            'display_mode' => 'PRODUCTS_AND_PAGE',
             'is_active' => true,
             'parent_id' => $parentCategory->getId()
         ];
@@ -127,7 +127,7 @@ class InstallData implements InstallDataInterface
             'active' => true,
             'is_anchor' => true,
             'include_in_menu' => true,
-            'display_mode' => 'PAGE',
+            'display_mode' => 'PRODUCTS_AND_PAGE',
             'is_active' => true,
             'parent_id' => $parentCategory->getId(),
 
