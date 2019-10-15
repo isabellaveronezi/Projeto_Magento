@@ -40,6 +40,7 @@ module.exports = {
             'css/styles-l'
         ],
         dsl: 'less'
+
     },
     theme: {
         area: 'frontend',
