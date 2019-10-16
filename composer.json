@@ -11,7 +11,11 @@
         "sort-packages": true
     },
     "require": {
+        "imaginationmedia/correios": "^1.2",
+        "intelipost/magento2-basic": "^1.2",
+        "intelipost/magento2-autocomplete": "^1.1",
         "magento/product-community-edition": "2.3.2",
+        "mageplaza/module-multi-flat-rates": "^1.1",
         "ricardomartins/pagseguro": "dev-master"
     },
     "require-dev": {

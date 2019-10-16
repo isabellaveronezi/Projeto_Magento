@@ -55,34 +55,34 @@
 "You have placed no orders.", "Você não possui pedidos", module, Magento_Customer
 "You have not purchased any downloadable products yet.", "Você ainda não comprou nenhum produto para download.", module, Magento_Downloadable
 "My Downloadable Products", "Meus Produtos Para Download", module, Magento_Downloadable
-"Add New Address", "Adicionar Novo Endereço", module, Magento_Costumer
-"Company", "Companhia", module, Magento_Costumer
-"Phone Number", "Número de telefone", module, Magento_Costumer
-"Street Address", "Endereço", module, Magento_Costumer
-"Address", "Endereço", module, Magento_Costumer
-"City", "Cidade", module, Magento_Costumer
-"State/Province", "Estado/Província", module, Magento_Costumer
-"Zip/Postal Code", "CEP/Código Postal", module, Magento_Costumer
-"Country", "País", module, Magento_Costumer
+"Add New Address", "Adicionar Novo Endereço", module, Magento_Customer
+"Company", "Companhia", module, Magento_Customer
+"Phone Number", "Número de telefone", module, Magento_Customer
+"Street Address", "Endereço", module, Magento_Customer
+"Address", "Endereço", module, Magento_Customer
+"City", "Cidade", module, Magento_Customer
+"State/Province", "Estado/Província", module, Magento_Customer
+"Zip/Postal Code", "CEP/Código Postal", module, Magento_Customer
+"Country", "País", module, Magento_Customer
 "Save Address", "Salvar Endereço", module, Magento_Ui
-"Please select a region, state or province.", "Por favor, selecione a região, estado ou província.", module, Magento_Costumer
-"Edit Account Information", "Editar Informações da Conta", module, Magento_Costumer
+"Please select a region, state or province.", "Por favor, selecione a região, estado ou província.", module, Magento_Customer
+"Edit Account Information", "Editar Informações da Conta", module, Magento_Customer
 "Change Email", "Mudar o e-mail", module, Magento_Ui
 "Save", "Salvar", module, Magento_Customer
-"Stored Payment Methods", "Métodos de Pagamento", module, Magento_Costumer
-"You have no stored payment methods.", "Você não possui métodos de pagamento no momento", module, Magento_Costumer
-"Billing Agreements", "Contratos de Cobrança", module, Magento_Costumer
-"There are no billing agreements yet.", "Ainda não há contratos de cobrança.", module, Magento_Costumer
-"My Product Reviews", "Comentários dos Meus Produtos", module, Magento_Costumer
-"You have submitted no reviews.", "Você não enviou comentários.", module, Magento_Costumer
-"Newsletter Subscription", "Assinatura de Newsletter", module, Magento_Costumer
-"Subscription option", "Opção de assinatura", module, Magento_Costumer
+"Stored Payment Methods", "Métodos de Pagamento", module, Magento_Customer
+"You have no stored payment methods.", "Você não possui métodos de pagamento no momento", module, Magento_Customer
+"Billing Agreements", "Contratos de Cobrança", module, Magento_Customer
+"There are no billing agreements yet.", "Ainda não há contratos de cobrança.", module, Magento_Customer
+"My Product Reviews", "Comentários dos Meus Produtos", module, Magento_Customer
+"You have submitted no reviews.", "Você não enviou comentários.", module, Magento_Customer
+"Newsletter Subscription", "Assinatura de Newsletter", module, Magento_Customer
+"Subscription option", "Opção de assinatura", module, Magento_Customer
 "General Subscription", "Assinatura Geral", module, Magento_Ui
-"Current Password", "Senha Atual", module, Magento_Costumer
-"New Password", "Nova Senha", module, Magento_Costumer
-"Confirm New Password", "Confirme a Nova Senha", module, Magento_Costumer
-"Unable to send mail: Unknown error", "Não foi possível enviar o e-mail: erro desconhecido", module, Magento_Costumer
-"The password doesn't match this account. Verify the password and try again.", "A senha não corresponde a esta conta. Verifique a senha e tente novamente.", module, Magento_Costumer
+"Current Password", "Senha Atual", module, Magento_Customer
+"New Password", "Nova Senha", module, Magento_Customer
+"Confirm New Password", "Confirme a Nova Senha", module, Magento_Customer
+"Unable to send mail: Unknown error", "Não foi possível enviar o e-mail: erro desconhecido", module, Magento_Customer
+"The password doesn't match this account. Verify the password and try again.", "A senha não corresponde a esta conta. Verifique a senha e tente novamente.", module, Magento_Customer
 "Newsletter Subscriptions", "Assinatura de Newsletter", module, Magento_Ui
 "Sort By", "Ordenar por", module, Magento_Ui
 "Position", "Posição", module, Magento_Ui
@@ -109,10 +109,10 @@
 "Add to Compare", "ADICIONAR PARA COMPARAR", module, Magento_Catalog
 "In stock", "EM ESTOQUE", module, Magento_Catalog
 "Print This Page", "Imprimir essa Página", module, Magento_Ui
-"Description", "Descrição", module, Magento_Costumer
-"Shopping Cart", "Carrinho de Compras", module, Magento_Costumer
+"Description", "Descrição", module, Magento_Customer
+"Shopping Cart", "Carrinho de Compras", module, Magento_Customer
 "Move to Wishlist", "Mover para Lista de Desejos", module, Magento_Ui
-"Update Shopping Cart", "Atualizar carrinho de compras", module, Magento_Ui
+"Update Shopping Cart", "Atualizar Carrinho de Compras", module, Magento_Ui
 "Check Out with Multiple Addresses", "Confira com vários endereços", module, Magento_Ui
 "Estimate Shipping and Tax", "Estimativa de preço", module, Magento_Ui
 "Enter your destination to get a shipping estimate.", "Insira o seu endereço para obter uma estimativa de preço.", module, Magento_Checkout
@@ -123,3 +123,21 @@
 "Order Total", "Preço Total", module, Magento_Ui
 "Proceed to Checkout", "Finalizar Pedido", module, Magento_Ui
 "Payment Method", "Método de Pagamento", module, Magento_Checkout
+"Reset My Password", "Resetar Senha", module, Magento_Ui
+"Review & Payments", "Forma de Pagamento", module, Magento_Checkout
+"You can create an account after checkout.", "Você pode criar uma conta após o checkout", module, Magento_Checkout
+"Shipping Address", "Endereço de Entrega", module, Magento_Customer
+"Thank you for registering with Main Website Store.", "Obrigado(a) por se registrar na WebGames!.", module, Magento_Customer
+"Welcome,", "Bem vindo,", module, Magento_Backend
+"Shipping", "Frete", module, Magento_Checkout
+"Order Summary", "Resumo do pedido", module, Magento_Checkout
+"Item in Cart", "Item(ns) no carrinho", module, Magento_Checkout
+"Shipping Methods", "Métodos de Envio", module, Magento_Checkout
+"Next", "Próximo", module, Magento_Ui
+"We'll send your order confirmation here.", "Enviaremos a confirmação do seu pedido aqui.", module, Magento_Checkout
+"Email Address", "Endereço de Email", module, Magento_Checkout
+"Cart Subtotal", "Subtotal", module, Magento_Checkout
+"Ship To:", "Enviar para:", module, Magento_Checkout
+"Shipping Method:", "Método de envio:", module, Magento_Checkout
+"View and Edit Cart", "Ver e editar carrinho", module, Magento_Checkout
+
