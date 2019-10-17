@@ -140,4 +140,7 @@
 "Ship To:", "Enviar para:", module, Magento_Checkout
 "Shipping Method:", "Método de envio:", module, Magento_Checkout
 "View and Edit Cart", "Ver e editar carrinho", module, Magento_Checkout
+"Adding", "Adicionando", module, Magento_Catalog
+"Added", "Adicionado", module, Magento_Catalog
+"You added to your shopping cart.", "Você adicionou ao carrinho.", module Magento_Catalog
 
