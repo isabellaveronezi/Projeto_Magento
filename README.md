@@ -1,5 +1,5 @@
 <h1>
-Implementação de uma loja, utilizando o Magento
+Implementação de uma pequena loja de E-commerce, utilizando o Magento
 </h1>
 
 Pequeno projeto de uma loja de e-commerce utilizando o framework Magento para finalizar o aprendizado. Projeto destinado ao treinamento do time de estágiarios da WebJump!
@@ -98,7 +98,6 @@ Instalação
   </li>
 </ul>
 <img src="https://lh3.googleusercontent.com/6ACov6U8RcGs89RpyioUT22MefN863ytSuFjRX04RaL4CZ88PVyOKHcm5fUww8zfc4wrqgd7j_Sw53ODf1F6f8IAhx_yxc0Vbt-NDkLPjLT2o8HLSbemPsgPRabDf0V4EnsOmx5Cq2uqz8wmmrEVliFgW93D4C_zmoEjmZ8L42xZ2BOfwUO-kcfGuXaymwSMfMhHQM7JZI3KJuR2LeYBFq2zlkKg7_1A49KORLck_M4uDApO0u9EKBE4nFCCkkEKd4Hf1aFrX7nlRHB-ji9mExk74V-O8ZqGo-auM6LIDWMNuz08hHDKoYaA6h5jyj6rSdxISxjd5wWDUd_Vq2HBzWzUb8EHY0EVwdbM3vpfcz--_H4WBlPVEPeOsMcAuboiFRvxIa6UMRZpXPu1jNJF-DZJOC803IEIP4Zf-_w4lWpH7_s64AdMTQUPMBrfAuT-EQ4jsOBTIW7CBW5btuWZIFZdeWR1UcuxJy1bFf4a46x_CJOkZtnhWmI1YmNiBeONmT7JJWQqZ3sw8cwX-4u5rd7IBZLCYJ0d4kJyjWAQw8WLrwkb1kFtN4lDt4EASsNjC14wj--CRSuk49I5IYwfsXju45SNHJaI2pl9AIeKE1sijhSsJcfHG2HNDXPdrgTUMeRsMbIb6BDG8pFlh6dlpgAteY1Pp9jEffkBuRkTMl3NVF4sVgULaQQ=w1099-h625-no"/>
-
 <ul>
   <li>
     Para o módulo de pagamento, foi utilizado o módulo PagSeguro Trasparente. Para mais informações a respeito do módulo basta acessar:
@@ -121,8 +120,7 @@ Instalação
    Exibição no frontend do módulo
   </li>
   </ul>
-  <img src="https://lh3.googleusercontent.com/tLJ6ZkKeNotAj5ZaQp7qNH5g7BNqx8KO61Hp-Nt5YXvaYvqDVebt34leK0auMbzxC1Pe99MNWDb6P3KftFdHvqZglRYgj8BADhCt2NlyXwGwHSSsSxwuYJOjrE2BCY5jnQNsZojd5STwDKOquBR05pticjmZENu-mWD9uQafCJ2bUWJkImr0t9ZpMCSqgJpt_K41Ap_6Xs9iPJP8AM_RgcJ-QqnRAi2WLRzyoZGkUT7pT3tBrUb2NtwXOgULuxE2KnqVnUpGbnOd63UWZEdqfXZeXtbDKF3hCFcwQqZOfjzmot74tXuQwnv8Um-hbLELu6m6pS-8ewhqVDkv05-Qqx1lwaAODI7Uq6bbBbn3oNvzr5ss-8TDVQN0uw0xfWRmNUDq3igs-WfRXsdOwAQ0yWz9fQTJlLqPlgTFX6W7dI7ROlZiDrRtBrAdmS4f3wlZ7XeaDPQjFKpZ3Mvw_Vk3JyN4CTZ-M2MHbH7wZE1qaii0m0JVSzSvlZUNTtGHCMQX5ItlT_k9tXsokcTQlcYu0DOZmntjCOQGE7U8ApW6ASwavLwJrNzGkO5Oo2CXPOtw21wRYI6y93oDX7uku46uzNkGqDO1tW-bKcrqZ6y-McPpC4fKRrwde4lUVsA3dn622FPbhV75tFwJMzpFjfzlOCtQ4AsqNelQDHGkiuVn-X7vKFS_pra7-yM=w1145-h632-no"/>
-  
+  <img src="https://lh3.googleusercontent.com/tLJ6ZkKeNotAj5ZaQp7qNH5g7BNqx8KO61Hp-Nt5YXvaYvqDVebt34leK0auMbzxC1Pe99MNWDb6P3KftFdHvqZglRYgj8BADhCt2NlyXwGwHSSsSxwuYJOjrE2BCY5jnQNsZojd5STwDKOquBR05pticjmZENu-mWD9uQafCJ2bUWJkImr0t9ZpMCSqgJpt_K41Ap_6Xs9iPJP8AM_RgcJ-QqnRAi2WLRzyoZGkUT7pT3tBrUb2NtwXOgULuxE2KnqVnUpGbnOd63UWZEdqfXZeXtbDKF3hCFcwQqZOfjzmot74tXuQwnv8Um-hbLELu6m6pS-8ewhqVDkv05-Qqx1lwaAODI7Uq6bbBbn3oNvzr5ss-8TDVQN0uw0xfWRmNUDq3igs-WfRXsdOwAQ0yWz9fQTJlLqPlgTFX6W7dI7ROlZiDrRtBrAdmS4f3wlZ7XeaDPQjFKpZ3Mvw_Vk3JyN4CTZ-M2MHbH7wZE1qaii0m0JVSzSvlZUNTtGHCMQX5ItlT_k9tXsokcTQlcYu0DOZmntjCOQGE7U8ApW6ASwavLwJrNzGkO5Oo2CXPOtw21wRYI6y93oDX7uku46uzNkGqDO1tW-bKcrqZ6y-McPpC4fKRrwde4lUVsA3dn622FPbhV75tFwJMzpFjfzlOCtQ4AsqNelQDHGkiuVn-X7vKFS_pra7-yM=w1145-h632-no"/>  
  <ul>
   <li>
    Após fecha o pagamento é possível conferir no Admin o pedido: 
