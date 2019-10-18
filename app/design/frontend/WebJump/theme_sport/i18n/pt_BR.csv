@@ -2,7 +2,7 @@
 "Sign In", "Entrar", module, Magento_Ui
 "or", "ou", module, Magento_Ui
 "Default welcome msg!", "Bem Vindo", module, Magento_Ui
-"Home Page", "Web Games", module, Magento_Ui
+"Home Page", "Web Sports", module, Magento_Ui
 "CMS homepage content goes here.", "Imagens meramente ilustrativas - 2019.", module, Magento_Ui
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.", "Conta incorreta ou sua conta se encontra desativada temporariamente. Aguarde e tente novamente mais tarde.", module, Magento_Customer
 "Privacy and Cookie Policy", "Política de Privacidade e Cookies", module, Magento_Customer
@@ -127,7 +127,7 @@
 "Review & Payments", "Forma de Pagamento", module, Magento_Checkout
 "You can create an account after checkout.", "Você pode criar uma conta após o checkout", module, Magento_Checkout
 "Shipping Address", "Endereço de Entrega", module, Magento_Customer
-"Thank you for registering with Main Website Store.", "Obrigado(a) por se registrar na WebGames!.", module, Magento_Customer
+"Thank you for registering with Main Website Store.", "Obrigado(a) por se registrar na WebSports!.", module, Magento_Customer
 "Welcome,", "Bem vindo,", module, Magento_Backend
 "Shipping", "Frete", module, Magento_Checkout
 "Order Summary", "Resumo do pedido", module, Magento_Checkout
@@ -145,7 +145,7 @@
 "You added to your shopping cart.", "Você adicionou ao carrinho.", module Magento_Catalog
 "You have no items in your shopping cart.", "Você não possui itens no carrinho", module, Magento_Checkout
 "Place Order", "Finalizar Compra"
-"Thank you for your purchase!", "Obrigado por comprar na WebGames", module, Magento_Multishipping
+"Thank you for your purchase!", "Obrigado por comprar na WebSports", module, Magento_Multishipping
 "Your order # is: ", "Seu pedido # é: ", module, Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.", "Enviaremos por e-mail uma confirmação do pedido com detalhes e informações de rastreamento.", module, Magento_Checkout
 "You can track your order status by creating an account.", "Você pode acompanhar o status do seu pedido criando uma conta.", module, Magento_Checkout

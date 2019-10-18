@@ -40,7 +40,6 @@ module.exports = {
             'css/styles-l'
         ],
         dsl: 'less'
-
     },
     theme: {
         area: 'frontend',
@@ -52,7 +51,6 @@ module.exports = {
         ],
         dsl: 'less'
     },
-
     theme_sport: {
         area: 'frontend',
         name: 'WebJump/theme_sport',

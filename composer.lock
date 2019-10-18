@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "daf5040d544f317167991b93bf1fb61f",
+    "content-hash": "6381d73b1a48c34d2dfb4bc7f83cc6ce",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -10356,6 +10356,37 @@
                 "framework"
             ],
             "time": "2019-07-26T16:43:11+00:00"
+        },
+        {
+            "name": "mageplaza/module-multi-flat-rates",
+            "version": "1.1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://repo.magento.com/archives/mageplaza/module-multi-flat-rates/mageplaza-module-multi-flat-rates-1.1.0.0.zip",
+                "reference": null,
+                "shasum": "c1ff1711745a922829eba3cda03b58f598e7acc5"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Mageplaza\\Multiflatrates\\": ""
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Mageplaza",
+                    "email": "support@mageplaza.com",
+                    "homepage": "https://www.mageplaza.com",
+                    "role": "Technical Support"
+                }
+            ],
+            "description": "Magento 2 Multi Flat Rates extension"
         },
         {
             "name": "monolog/monolog",

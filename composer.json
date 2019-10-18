@@ -12,6 +12,7 @@
     },
     "require": {
         "magento/product-community-edition": "2.3.2",
+        "mageplaza/module-multi-flat-rates": "^1.1",
         "ricardomartins/pagseguro": "dev-master"
     },
     "require-dev": {
