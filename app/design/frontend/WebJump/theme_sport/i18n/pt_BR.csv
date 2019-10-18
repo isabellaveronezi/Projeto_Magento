@@ -165,3 +165,5 @@
 "Billing Last Name", "Sobrenome de cobrança", module, Magento_Sales
 "Find Order By", "Localizar o pedido por: ", module, Magento_Sales
 "ZIP Code", "CPF", module, Magento_Sales
+"We can't find products matching the selection.", "Não conseguimos encontrar produtos correspondentes à seleção.", module, Magento_Catalog
+"This is a required field.", "Este é um campo obrigatório.", module, Magento_Base
