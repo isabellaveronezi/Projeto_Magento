@@ -40,17 +40,17 @@ class InstallData implements InstallDataInterface
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'developer',
-            $this->getAttributeData('Developer', 74)
+            $this->getAttributeData('Desenvolvedor(a)', 74)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'distributor',
-            $this->getAttributeData('Distributor', 75)
+            $this->getAttributeData('Distribuidor', 75)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'gender',
-            $this->getAttributeData('Gender', 76)
+            $this->getAttributeData('Gênero', 76)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
@@ -60,37 +60,37 @@ class InstallData implements InstallDataInterface
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'warranty',
-            $this->getAttributeData('Warranty', 79)
+            $this->getAttributeData('Garantia', 79)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'title',
-            $this->getAttributeData('Title', 82)
+            $this->getAttributeData('Título', 82)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'origin',
-            $this->getAttributeData('Origin', 83)
+            $this->getAttributeData('Origem', 83)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'size',
-            $this->getAttributeData('Size', 84)
+            $this->getAttributeData('Tamanho', 84)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'number',
-            $this->getAttributeData('Number', 85)
+            $this->getAttributeData('Número', 85)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'brand',
-            $this->getAttributeData('Brand', 86)
+            $this->getAttributeData('Marca', 86)
         );
         $eavSetupFactory->addAttribute(
             Product::ENTITY,
             'color',
-            $this->getAttributeData('Color', 87)
+            $this->getAttributeData('Cor', 87)
         );
     }
     /**

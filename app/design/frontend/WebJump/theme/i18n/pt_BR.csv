@@ -1,2 +1,167 @@
-"Create an Account", "Criar conta", module, Magento_Ui
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.", "qualquer coisa", module, Magento_Customer
+"Create an Account", "Criar Conta", module, Magento_Ui
+"Sign In", "Entrar", module, Magento_Ui
+"or", "ou", module, Magento_Ui
+"Default welcome msg!", "Bem Vindo", module, Magento_Ui
+"Home Page", "Web Games", module, Magento_Ui
+"CMS homepage content goes here.", "Imagens meramente ilustrativas - 2019.", module, Magento_Ui
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.", "Conta incorreta ou sua conta se encontra desativada temporariamente. Aguarde e tente novamente mais tarde.", module, Magento_Customer
+"Privacy and Cookie Policy", "Política de Privacidade e Cookies", module, Magento_Customer
+"Contact Us", "Dúvidas? Contate - Nos", module, Magento_Customer
+"Advanced Search", "Busca Avançada", module, Magento_Customer
+"Orders and Returns", "Encomendas e Devoluções", module, Magento_Customer
+"Search Terms", "Busca Popular", module, Magento_Customer
+"Customer Login", "Login", module, Magento_Customer
+"Registered Customers", "ACESSE SUA CONTA", module, Magento_Customer
+"If you have an account, sign in with your email address.","Se você já possui uma conta, entre com seu endereço de e-mail.", module, Magento_Customer
+"Password", "Senha", module, Magento_Customer
+"New Customers", "CADASTRE-SE", module, Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.", "Ao criar uma conta em nossa loja, você será capaz de fechar pedidos com mais agilidade, cadastrar diversos endereços,
+ acompanhar seus pedidos, entre outras vantagens.", module, Magento_Customer
+"Forgot Your Password?", "Esqueceu a senha?", module, Magento_Customer
+"Create New Customer Account", "Criar nova conta", module, Magento_Customer
+"Personal Information", "Informação pessoal", module, Magento_Customer
+"First Name", "Primeiro Nome", module, Magento_Customer
+"Last Name", "Último nome", module, Magento_Customer
+"Sign-in Information", "Informações de login", module, Magento_Customer
+"Confirm Password", "Confirmação de Senha", module, Magento_Customer
+"Required Fields", "Os campos obrigatórios", module, Magento_Customer
+"Sign Up for Newsletter", "Assine a newsletter", module, Magento_Customer
+"Password Strength: No Password", "Força da senha: Nenhuma senha", module, Magento_Customer
+"Enter your email address", "Insira o seu endereço de email", module, Magento_User
+"Search entire store here...", "Digite o que você procura...", module, Magento_User
+"Subscribe", "Inscreva-se", module, Module_Customer
+"Incorrect CAPTCHA", "CAPTCHA Incorreto", module, Magento_Customer
+"Reload captcha", "Recarregar Captcha", module, Magento_Captcha
+"Please type the letters and numbers below", "Por favor digite as letras e números abaixo", module, Magento_Customer
+"My Account", "Minha Conta", module, Magento_Customer
+"Account Information", "Informação da Conta", module, Magento_Customer
+"Contact Information", "Informações de contato", module, Magento_Customer
+"You aren't subscribed to our newsletter.", "Você não está inscrito na nossa newsletter.", module, Magento_Customer
+"Edit", "Editar", module, Magento_Ui
+"Change Password", "Mudar Senha", module, Magento_Ui
+"Edit Address", "Editar Endereço", module, Magento_Ui
+"Default Billing Address", "Endereço de cobrança padrão", module, Magento_Customer
+"You have not set a default billing address.", "Você não definiu um endereço de cobrança padrão.", module, Magento_Customer
+"Default Shipping Address", "Endereço de entrega padrão", module, Magento_Customer
+"You have not set a default shipping address.", "Você não definiu um endereço de entrega padrão.", module, Magento_Customer
+"Address Book", "Endereço", module, Magento_Customer
+"Manage Addresses", "Gerenciar Endereço", module, Magento_Ui
+"Compare Products", "Comparar Produtos", module, Magento_Catalog
+"You have no items to compare.", "Você não tem itens para comparar.", module, Magento_Catalog
+"My Wish List", "Minha Lista de Desejos", module, Module_Catalog
+"You have no items in your wish list.", "Você não têm itens na sua lista de desejos.", module, Magento_Catalog
+"Sign Out", "Sair", module, Magento_Customer
+"My Orders", "Meus Pedidos", module, Magento_Customer
+"You have placed no orders.", "Você não possui pedidos", module, Magento_Customer
+"You have not purchased any downloadable products yet.", "Você ainda não comprou nenhum produto para download.", module, Magento_Downloadable
+"My Downloadable Products", "Meus Produtos Para Download", module, Magento_Downloadable
+"Add New Address", "Adicionar Novo Endereço", module, Magento_Customer
+"Company", "Companhia", module, Magento_Customer
+"Phone Number", "Número de telefone", module, Magento_Customer
+"Street Address", "Endereço", module, Magento_Customer
+"Address", "Endereço", module, Magento_Customer
+"City", "Cidade", module, Magento_Customer
+"State/Province", "Estado/Província", module, Magento_Customer
+"Zip/Postal Code", "CEP/Código Postal", module, Magento_Customer
+"Country", "País", module, Magento_Customer
+"Save Address", "Salvar Endereço", module, Magento_Ui
+"Please select a region, state or province.", "Por favor, selecione a região, estado ou província.", module, Magento_Customer
+"Edit Account Information", "Editar Informações da Conta", module, Magento_Customer
+"Change Email", "Mudar o e-mail", module, Magento_Ui
+"Save", "Salvar", module, Magento_Customer
+"Stored Payment Methods", "Métodos de Pagamento", module, Magento_Customer
+"You have no stored payment methods.", "Você não possui métodos de pagamento no momento", module, Magento_Customer
+"Billing Agreements", "Contratos de Cobrança", module, Magento_Customer
+"There are no billing agreements yet.", "Ainda não há contratos de cobrança.", module, Magento_Customer
+"My Product Reviews", "Comentários dos Meus Produtos", module, Magento_Customer
+"You have submitted no reviews.", "Você não enviou comentários.", module, Magento_Customer
+"Newsletter Subscription", "Assinatura de Newsletter", module, Magento_Customer
+"Subscription option", "Opção de assinatura", module, Magento_Customer
+"General Subscription", "Assinatura Geral", module, Magento_Ui
+"Current Password", "Senha Atual", module, Magento_Customer
+"New Password", "Nova Senha", module, Magento_Customer
+"Confirm New Password", "Confirme a Nova Senha", module, Magento_Customer
+"Unable to send mail: Unknown error", "Não foi possível enviar o e-mail: erro desconhecido", module, Magento_Customer
+"The password doesn't match this account. Verify the password and try again.", "A senha não corresponde a esta conta. Verifique a senha e tente novamente.", module, Magento_Customer
+"Newsletter Subscriptions", "Assinatura de Newsletter", module, Magento_Ui
+"Sort By", "Ordenar por", module, Magento_Ui
+"Position", "Posição", module, Magento_Ui
+"Product Name", "Nome do Produto", module, Magento_Ui
+"Price", "Preço", module, Magento_Ui
+"Show", "Mostrar", module, Magento_Ui
+"per page", "por página", Magento_Ui
+"Be the first to review this product", "Seja o primeiro a avaliar esse produto", module, Magento_Review
+"Details", "Detalhes", module, Magento_Catalog
+"More Information", "Mais Informações", module, Magento_Catalog
+"Reviews", "Comentários", module, Magento_Catalog
+"You're reviewing:", "Você está comentado sobre:", module, Magento_Review
+"Nickname", "Apelido", module, Magento_Review
+"Summary", "Resumo", module, Magento_Review
+"Review", "Comentário", module, Magento_Review
+"Submit Review", "Enviar Comentário", module, Magento_Review
+"Qty", "Qnt", module, Magento_Ui
+"Add to Cart", "Adicionar ao Carrinho", module, Magento_Ui
+"Add to Wish List", "ADICIONAR A LISTA DE DESEJOS", module, Magento_Catalog
+"Update Wish List", "Atualizar Lista de Desejos", module, Magento_Ui
+"Share Wish List", "Compartilhar Lista de Desejos", module, Magento_Ui
+"Add All to Cart", "Adicionar Tudo ao Carrinho", module, Magento_Ui
+"Go to Wish List", "Ir para Lista de Desejos", module, Magento_Ui
+"Add to Compare", "ADICIONAR PARA COMPARAR", module, Magento_Catalog
+"In stock", "EM ESTOQUE", module, Magento_Catalog
+"Print This Page", "Imprimir essa Página", module, Magento_Ui
+"Description", "Descrição", module, Magento_Customer
+"Shopping Cart", "Carrinho de Compras", module, Magento_Customer
+"Move to Wishlist", "Mover para Lista de Desejos", module, Magento_Ui
+"Update Shopping Cart", "Atualizar Carrinho de Compras", module, Magento_Ui
+"Check Out with Multiple Addresses", "Confira com vários endereços", module, Magento_Ui
+"Estimate Shipping and Tax", "Estimativa de preço", module, Magento_Ui
+"Enter your destination to get a shipping estimate.", "Insira o seu endereço para obter uma estimativa de preço.", module, Magento_Checkout
+"Flat Rate", "Taxa Fixa", module, Magento_Shipping
+"Apply Discount Code", "Aplicar código de desconto", module, Magento_Ui
+"Enter discount code", "Código de desconto", module, Magento_User
+"Apply Discount", "Aplicar Desconto", module, Magento_Ui
+"Order Total", "Preço Total", module, Magento_Ui
+"Proceed to Checkout", "Finalizar Pedido", module, Magento_Ui
+"Payment Method", "Método de Pagamento", module, Magento_Checkout
+"Reset My Password", "Resetar Senha", module, Magento_Ui
+"Review & Payments", "Forma de Pagamento", module, Magento_Checkout
+"You can create an account after checkout.", "Você pode criar uma conta após o checkout", module, Magento_Checkout
+"Shipping Address", "Endereço de Entrega", module, Magento_Customer
+"Thank you for registering with Main Website Store.", "Obrigado(a) por se registrar na WebGames!.", module, Magento_Customer
+"Welcome,", "Bem vindo,", module, Magento_Backend
+"Shipping", "Frete", module, Magento_Checkout
+"Order Summary", "Resumo do pedido", module, Magento_Checkout
+"Item in Cart", "Item(ns) no carrinho", module, Magento_Checkout
+"Shipping Methods", "Métodos de Envio", module, Magento_Checkout
+"Next", "Próximo", module, Magento_Ui
+"We'll send your order confirmation here.", "Enviaremos a confirmação do seu pedido aqui.", module, Magento_Checkout
+"Email Address", "Endereço de Email", module, Magento_Checkout
+"Cart Subtotal", "Subtotal", module, Magento_Checkout
+"Ship To:", "Enviar para:", module, Magento_Checkout
+"Shipping Method:", "Método de envio:", module, Magento_Checkout
+"View and Edit Cart", "Ver e editar carrinho", module, Magento_Checkout
+"Adding...", "Adicionando...", module, Magento_Catalog
+"Added", "Adicionado", module, Magento_Catalog
+"You added to your shopping cart.", "Você adicionou ao carrinho.", module Magento_Catalog
+"You have no items in your shopping cart.", "Você não possui itens no carrinho", module, Magento_Checkout
+"Place Order", "Finalizar Compra"
+"Thank you for your purchase!", "Obrigado por comprar na WebGames", module, Magento_Multishipping
+"Your order # is: ", "Seu pedido # é: ", module, Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.", "Enviaremos por e-mail uma confirmação do pedido com detalhes e informações de rastreamento.", module, Magento_Checkout
+"You can track your order status by creating an account.", "Você pode acompanhar o status do seu pedido criando uma conta.", module, Magento_Checkout
+"Continue Shopping", "Continue comprando em nossa loja", module, Magento_Ui
+"There are no search terms available.", "Não há termos de pesquisa disponíveis.", module, Magento_Search
+"There are no search terms available.", "Não há termos de pesquisa disponíveis.", module, Magento_Search
+"Write Us", "Escreva para nós", module, Magento_Contact
+"What’s on your mind?", "O que você está pensando?", module, Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.", "Faça uma anotação e entraremos em contato com você o mais rápido possível.", module, Magento_Contact
+"Submit", "Enviar", module, Magento_Ui
+"Search Settings", "Configurações de pesquisa", module, Magento_Search
+"Short Description", "Pequena descrição", module, Magento_Base
+"Search", "Procurar", Magento_Ui
+"* Required Fields", "Campos Obrigatórios", module, Magento_Bundle
+"Order Information", "Informação de pedido", module, Magento_Sales
+"Order ID", "ID do pedido", module, Magento_Sales
+"Billing Last Name", "Sobrenome de cobrança", module, Magento_Sales
+"Find Order By", "Localizar o pedido por: ", module, Magento_Sales
+"ZIP Code", "CPF", module, Magento_Sales
