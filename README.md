@@ -121,7 +121,7 @@ Instalação
   <li>
    Para configuração do módulo dentro do Magento basta seguir o link abaixo: 
     <pre> 
-    <code>   https://www.youtube.com/watch?v=4LDnjLx9KTc </code> 
+    <code>   https://www.youtube.com/watch?v=DQJ3W9Qfn58&t=431s </code> 
     <code>   https://github.com/pagseguro/magento2 </code> 
     </pre>
   </li>
