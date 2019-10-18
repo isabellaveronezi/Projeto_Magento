@@ -74,9 +74,61 @@ Instalação
     É necessário realizar o cadastro de produtos via Admin e vincular com a Categoria de sua escolha.
   </li>
 </ul>
+<ul>
+  <li>
+    Para o módulo de frete, foi utilizado o módulo Multiple Shipping Flat Rates. Para mais informações a respeito do módulo basta acessar:
+    <pre>
+  <code> https://marketplace.magento.com/mageplaza-module-multi-flat-rates.html </code>
+ </pre>
+  </li>
+  <li>
+    Para configurar o módulo de frete via Admin, é necessário configurar Country Options, para o País de sua escolha como no exemplo abaixo: 
+  </li>
+</ul>
+<img src="https://lh3.googleusercontent.com/jnS1br2SYjop2y5eu80zRzCdG2AK7mBWXry0hR1hcr44kUloMnerTMQuTPQbozFSw6_TbdL8Y9LE5RFP6TWm_8DDCQ9qlRQQMKZIxK_qeE0NJXixRTC5fDZfWPZ-aS5HJNndhkwg7qlHuPeNZRXAlVd9cw2F9VUV0JXRQAp8oxKO_sRl4O0JmclDWA-r2hQxkA-VwakhtNE9ch9PZYw84v8IYBIShJTP7Z4W0raCeaVzHGpGi6mrUTzUSik5Ny-hu6R3bwz3dm9pJXM8pWqbLdXSMQ5Hoix1-SQnbGiE2SAreFD1orm_OFUKQjm3sSCSvIUf8FOhl-xF8-fv8ikdcPjC9CTuQjAjj6I3ZzlncDoNLAY65AY4gcw1QhTXWe5wYTUcQD_jyiZpCVfRZCkqrhRqKmCk_r2LFWFgz91x4vPY2NQSag3InrteCT6KK1wI7YcnXrIh-cs1icn1qLn7-CDT0ivajaPyOrRqpDwWBkLZAFmYWHaktLsumAtp3KRGatrE7J6FCbHwsvDfmrUAD-w3Z4-o4UpS2Nc4pNEl3kJwvUAr58Uhlzhw5ag1-HQaSGTGnuuNrZYqkyX7zM7IyacLlENAHqfUwYNuAaLq9sccXC5vUiEFPBHrb_GrRi5prC5_xiAUBw4-mO0ZhFPBiiZN9y6_13Xg4szHlOoV0eL4byjpX7L31AA=w1246-h605-no"/>
+<ul>
+<li>
+    Após configurar o Country Options, basta configurar o Frete em Shippings Methods
+  </li>
+</ul>
+<img src="https://lh3.googleusercontent.com/I_zTfPjoQr47IEi0_kNJCTzp5152g25abAjZ90tc6zkO3IWrB-B54IT5GJ6Qu3lrPFq2lWSC2OCRAMEZ_MrFdQt9hvzdLdXaD2RZ0o8niEFy7FbJp6CgG4L6ndjTJl4rgVvYKS5h4BAdl7bafV9fxhkgETG6BIhuO_McDLvY4MuVO8NwnuaePUxqpe5GtL35mJGvRnHb2hmfRYnOAD8uMTRYB5feU1okiwTmPZ86l590JqZ8a8xuXW4T4LYgMPfmbilrFcxU_bmI1RLF8w95S70F6zkSrtvWPU7UfQuzqRJQh2s3VivXhUF59FmII-vbo2Z_fKkAxAEbWx9pz5yXLUwELPn_IX_QShcaiRS2vG9JFN3WzOeovRwRi-AlDFwTs-f4LtzGfsRGghWOELMRqP7V6cHdy9Ahqt7RmYlQFy0Z19nbDjO_PMKOubJil6A4_GZKGq26JVSnOk9pY-1FKJaouJ9p9ovgZ86wC9ynoskhxAdkq9869wTAFnO5JDhX9e2r5KNssU-L8QUfwVowOqDZPQ8RV56NBoLGaV2RdkO8QbPpb5RRgewAc79pKdU9i_85gNuqQUOOZqLtEQEYy5ip2ldUfBR4yLCJoOVLPIDjYSIzlKgF_YDN7JBjzqH3CIKMoJBbQsSKAiOde1qXFtULbzmZho_jZM7VNEi4ngIpgCZon4cwVt8=w1315-h614-no"/>
+ <ul>
+<li>
+    No Frontend é exibido dessa forma: 
+  </li>
+</ul>
+<img src="https://lh3.googleusercontent.com/6ACov6U8RcGs89RpyioUT22MefN863ytSuFjRX04RaL4CZ88PVyOKHcm5fUww8zfc4wrqgd7j_Sw53ODf1F6f8IAhx_yxc0Vbt-NDkLPjLT2o8HLSbemPsgPRabDf0V4EnsOmx5Cq2uqz8wmmrEVliFgW93D4C_zmoEjmZ8L42xZ2BOfwUO-kcfGuXaymwSMfMhHQM7JZI3KJuR2LeYBFq2zlkKg7_1A49KORLck_M4uDApO0u9EKBE4nFCCkkEKd4Hf1aFrX7nlRHB-ji9mExk74V-O8ZqGo-auM6LIDWMNuz08hHDKoYaA6h5jyj6rSdxISxjd5wWDUd_Vq2HBzWzUb8EHY0EVwdbM3vpfcz--_H4WBlPVEPeOsMcAuboiFRvxIa6UMRZpXPu1jNJF-DZJOC803IEIP4Zf-_w4lWpH7_s64AdMTQUPMBrfAuT-EQ4jsOBTIW7CBW5btuWZIFZdeWR1UcuxJy1bFf4a46x_CJOkZtnhWmI1YmNiBeONmT7JJWQqZ3sw8cwX-4u5rd7IBZLCYJ0d4kJyjWAQw8WLrwkb1kFtN4lDt4EASsNjC14wj--CRSuk49I5IYwfsXju45SNHJaI2pl9AIeKE1sijhSsJcfHG2HNDXPdrgTUMeRsMbIb6BDG8pFlh6dlpgAteY1Pp9jEffkBuRkTMl3NVF4sVgULaQQ=w1099-h625-no"/>
+
+<ul>
+  <li>
+    Para o módulo de pagamento, foi utilizado o módulo PagSeguro Trasparente. Para mais informações a respeito do módulo basta acessar:
+    <pre>
+  <code> https://marketplace.magento.com/ricardomartins-pagseguro.html?edition[]=open%20source%20(ce) </code>
+ </pre>
+  </li>
+  </ul>
+  <ul>
+  <li>
+   Para configuração do módulo dentro do Magento basta seguir o link abaixo: 
+    <pre> 
+    <code>   https://www.youtube.com/watch?v=4LDnjLx9KTc </code> 
+    <code>   https://github.com/pagseguro/magento2 </code> 
+    </pre>
+  </li>
+</ul>
+<ul>
+  <li>
+   Exibição no frontend do módulo
+  </li>
+  </ul>
+  <img src="https://lh3.googleusercontent.com/tLJ6ZkKeNotAj5ZaQp7qNH5g7BNqx8KO61Hp-Nt5YXvaYvqDVebt34leK0auMbzxC1Pe99MNWDb6P3KftFdHvqZglRYgj8BADhCt2NlyXwGwHSSsSxwuYJOjrE2BCY5jnQNsZojd5STwDKOquBR05pticjmZENu-mWD9uQafCJ2bUWJkImr0t9ZpMCSqgJpt_K41Ap_6Xs9iPJP8AM_RgcJ-QqnRAi2WLRzyoZGkUT7pT3tBrUb2NtwXOgULuxE2KnqVnUpGbnOd63UWZEdqfXZeXtbDKF3hCFcwQqZOfjzmot74tXuQwnv8Um-hbLELu6m6pS-8ewhqVDkv05-Qqx1lwaAODI7Uq6bbBbn3oNvzr5ss-8TDVQN0uw0xfWRmNUDq3igs-WfRXsdOwAQ0yWz9fQTJlLqPlgTFX6W7dI7ROlZiDrRtBrAdmS4f3wlZ7XeaDPQjFKpZ3Mvw_Vk3JyN4CTZ-M2MHbH7wZE1qaii0m0JVSzSvlZUNTtGHCMQX5ItlT_k9tXsokcTQlcYu0DOZmntjCOQGE7U8ApW6ASwavLwJrNzGkO5Oo2CXPOtw21wRYI6y93oDX7uku46uzNkGqDO1tW-bKcrqZ6y-McPpC4fKRrwde4lUVsA3dn622FPbhV75tFwJMzpFjfzlOCtQ4AsqNelQDHGkiuVn-X7vKFS_pra7-yM=w1145-h632-no"/>
   
-  
- 
+ <ul>
+  <li>
+   Após fecha o pagamento é possível conferir no Admin o pedido: 
+  </li>
+  </ul>
+  <img src="https://lh3.googleusercontent.com/jAyl9HhMdRK4FzMWDW5wIJuO-cfeuOkT-uM7s7Soll3PKDuhSaLN7xXKEvg5nGMF7Ib435NF7U1d9ELi4Qzuh0lE3ajy69CfpJZ3zrbjjSYMruzAGiX2Sj3yn51-dL5XN4hvMJqzEAqfNmACw7A7MwXdLzjEBqEdCeRh9iqlt6HoC8_Osfv7WbIE2P1zWFlZ8YvJMax4-xiztmucQnlh-YdM2-lgtIqoO3JMgcWhAxCr5kJzaNueKH2nBsYQO6M9EwYnRU4R1o5f8bw0AKflq3OfZNT4kMXpj9W8_nJtIBfW3ZQyYoiIrkvVWwJ1Z0sQQR-sFE7eWYYho9rzVWnCI6BVY69zhDeWOg1U5eE888VQn7sBx-Gl7Gcxwd_XinTX4LEvJOldhyOFVStuKLhloU8aXOGX_owuqKF6BkaoEksD1f8vDVFxwmByBYLCKXhkZO0I2WvTvsO9pjZvuo18lb9T2uPSuCvZEQflC0uvCRE7SCA4gpWtD9TUk6SJfIRZXbCHnsP9XN1TzsrswKjDfp4BHJb22aHgFkzr5vD07DXDvOLje6iv_ytj-kpdioV5BQA2rR3vK5csFXmY0Q6_eIdQ6M9TaAt6QdET9bKtv6mwhejCTvlIASTiovefbCJyjbp7bQx24yfJ0EIAOx0TFoTvof0XyVezlTq2C5MCwlQ7gPjqhZvqc5A=w921-h569-no"/>
 
   
   
